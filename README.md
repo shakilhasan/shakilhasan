@@ -17,7 +17,7 @@
 - MySQL
 
 ## Overview:
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilhasan&layout=compact&theme=tokyonight)](https://github.com/shakilhasan)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilhasan&layout=compact&theme=tokyonight&hide=html)](https://github.com/shakilhasan)
 
 [![Shakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakilhasan&count_private=true&show_icons=true&theme=radical)](https://github.com/shakilhasan/github-readme-stats)
 
