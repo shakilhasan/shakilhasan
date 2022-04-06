@@ -4,6 +4,7 @@
 - GitHub: https://github.com/shakilhasan
 - LinkedIn: https://www.linkedin.com/in/mdshakilhasan/
 - Email: shakilhasan105268@gmail.com
+- StackOverflow: https://stackoverflow.com/users/8735242/md-shakil-hasan
 
 ## My Stack 🎯
 
