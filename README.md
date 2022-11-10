@@ -22,5 +22,6 @@
 
 [![Shakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakilhasan&count_private=true&show_icons=true&theme=radical)](https://github.com/shakilhasan/github-readme-stats)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilhasan&label=Profile%20views&color=0e75b6&style=flat" alt="shakilhasan" /> </p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/shakilhasan/shakilhasan)](https://github.com/shakilhasan)
